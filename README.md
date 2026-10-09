@@ -1,3 +1,10 @@
+
+
+Uploading Feature Demo.mp4…
+
+![Uploading TH5280网络收音机的英文翻译 (1).png…]()
+![Uploading TH5280网络收音机的英文翻译 (3).png…]()
+
 HT5280 Multifunctional Internet Radio / FM Radio / Aviation Radio
 Supports firmware upgrade, with open-source firmware (not source code), which enables subsequent maintenance of system stability and continuous optimization and updates
 FM, LW, MW, SW, OIRT, AIR, internet radio, clock & weather, clock perpetual calendar (with power-off memory), USB audio playback, computer sound card function, software custom setting function, compatible with computer-configured internet radio
