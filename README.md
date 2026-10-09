@@ -1,5 +1,6 @@
 
-![Uploading TH5280网络收音机的英文翻译 (1).png…]()
+<img width="2048" height="2048" alt="TH5280网络收音机的英文翻译 (1)" src="https://github.com/user-attachments/assets/d87b50af-3c1e-46b7-8b5d-a8109e55728b" />
+
 
 
 
